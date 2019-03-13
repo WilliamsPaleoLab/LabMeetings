@@ -4,4 +4,6 @@ Jack:  **Prober et al. 2018** Ecological Monographs:  [**Shifting the conservati
 
 Kevin:  **Brown et al. 2018** Scientific Data:  [**PaleoClim, high spatial resolution paleoclimate surfaces for global land areas**](https://www.nature.com/articles/sdata2018254)
 
+David: **Rehfeld et al. 2018** Nature: [**Global patterns of declining temperature variability from the Last Glacial Maximum to the Holocene**](https://www.nature.com/articles/nature25454/)
+
 ### Previous Readings
