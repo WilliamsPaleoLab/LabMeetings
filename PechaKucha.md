@@ -10,6 +10,6 @@ Anna: **Koch et al. 2018** Quaternary Science Reviews: [**Earth system impacts o
 
 Mathias: **Itter et al. 2018** Journal of Ecology: [**Boreal tree growth exhibits decadal‐scale ecological memory to drought and insect defoliation, but no negative response to their interaction**] (https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1365-2745.13087)
 
-Allie: **Abis and Brovkin** Global Ecology and Biogeography [**Alternative tree‐cover states of the boreal ecosystem: A conceptual model**] (https://onlinelibrary.wiley.com/doi/10.1111/geb.12880)
+Allie: **Abis and Brovkin 2019** Global Ecology and Biogeography [**Alternative tree‐cover states of the boreal ecosystem: A conceptual model**] (https://onlinelibrary.wiley.com/doi/10.1111/geb.12880)
 
 ### Previous Readings
