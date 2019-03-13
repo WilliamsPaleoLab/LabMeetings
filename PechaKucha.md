@@ -8,4 +8,6 @@ David: **Rehfeld et al. 2018** Nature: [**Global patterns of declining temperatu
 
 Anna: **Koch et al. 2018** Quaternary Science Reviews: [**Earth system impacts of the European arrival and Great Dying in the Americas after 1492**] (https://www.sciencedirect.com/science/article/pii/S0277379118307261)
 
+Mathias: **Itter et al. 2018** Journal of Ecology: [**Boreal tree growth exhibits decadal‐scale ecological memory to drought and insect defoliation, but no negative response to their interaction**] (https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1365-2745.13087)
+
 ### Previous Readings
