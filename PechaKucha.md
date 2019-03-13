@@ -6,4 +6,6 @@ Kevin:  **Brown et al. 2018** Scientific Data:  [**PaleoClim, high spatial resol
 
 David: **Rehfeld et al. 2018** Nature: [**Global patterns of declining temperature variability from the Last Glacial Maximum to the Holocene**](https://www.nature.com/articles/nature25454/)
 
+Anna: **Koch et al. 2018** Quaternary Science Reviews: [**Earth system impacts of the European arrival and Great Dying in the Americas after 1492**] (https://www.sciencedirect.com/science/article/pii/S0277379118307261)
+
 ### Previous Readings
