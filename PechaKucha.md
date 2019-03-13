@@ -12,4 +12,6 @@ Mathias: **Itter et al. 2018** Journal of Ecology: [**Boreal tree growth exhibit
 
 Allie: **Abis and Brovkin 2019** Global Ecology and Biogeography [**Alternative tree‐cover states of the boreal ecosystem: A conceptual model**] (https://onlinelibrary.wiley.com/doi/10.1111/geb.12880)
 
+Angie: **Kawa et al. 2019** American Anthropologist [**The Social Network of US Academic Anthropology and its Inequalities**] (https://anthrosource.onlinelibrary.wiley.com/doi/pdf/10.1111/aman.13158) 
+
 ### Previous Readings
