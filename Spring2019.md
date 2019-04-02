@@ -24,7 +24,7 @@ This semester, lab meetings will be held Wednesdays at noon, usually in room 201
 
 **Mar 27** Sed Points of Light [470 Weeks]: Alex Villa: Clumped isotopes/Paleoclimate in Cariaco Basin from LGM to present
 
-**Apr 3** *TBD/Pecha Kucha*
+**Apr 3** [Pecha Kucha](https://github.com/WilliamsPaleoLab/LabMeetings/blob/master/PechaKucha.md)
 
 **Apr 10** *TBD/Pecha Kucha*
 
