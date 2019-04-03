@@ -12,6 +12,8 @@ Allie: **Hart et al. 2019** Global Change Biology [**Examining forest resilience
 
 David: **Schegg et al. 2017** Journal of Climate [**Are Glacials Dry? Consequences for Paleoclimatology and for Greenhouse Warming**](https://journals.ametsoc.org/doi/10.1175/JCLI-D-16-0854.1)
 
+Anna: **Harrower et al. 2013** Cartography and Geographic Information Science [**Developing a Geographic Visualization Tool to Support Earth Science Learning**] (https://www.tandfonline.com/doi/abs/10.1559/152304000783547759)
+
 ### Previous Readings
 David: **Rehfeld et al. 2018** Nature: [**Global patterns of declining temperature variability from the Last Glacial Maximum to the Holocene**](https://www.nature.com/articles/nature25454/)
 
