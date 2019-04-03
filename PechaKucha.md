@@ -10,7 +10,7 @@ Angie:  **Vachula et al. 2019** Quaternary Science Reviews [**Evidence of Ice Ag
 
 Allie: **Hart et al. 2019** Global Change Biology [**Examining forest resilience to changing fire frequency in a fire‐prone region of boreal forest**] (https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.14550)
 
-David: **Schegg et al. 2017** Journal of Cliamte [**Are Glacials Dry? Consequences for Paleoclimatology and for Greenhouse Warming**] (https://journals.ametsoc.org/doi/10.1175/JCLI-D-16-0854.1)
+David: **Schegg et al. 2017** Journal of Climate [**Are Glacials Dry? Consequences for Paleoclimatology and for Greenhouse Warming**](https://journals.ametsoc.org/doi/10.1175/JCLI-D-16-0854.1)
 
 ### Previous Readings
 David: **Rehfeld et al. 2018** Nature: [**Global patterns of declining temperature variability from the Last Glacial Maximum to the Holocene**](https://www.nature.com/articles/nature25454/)
