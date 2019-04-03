@@ -22,3 +22,5 @@ Kevin:  **Brown et al. 2018** Scientific Data:  [**PaleoClim, high spatial resol
 Mathias: **Itter et al. 2018** Journal of Ecology: [**Boreal tree growth exhibits decadal‐scale ecological memory to drought and insect defoliation, but no negative response to their interaction**] (https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1365-2745.13087)
 
 Allie: **Abis and Brovkin 2019** Global Ecology and Biogeography [**Alternative tree‐cover states of the boreal ecosystem: A conceptual model**] (https://onlinelibrary.wiley.com/doi/10.1111/geb.12880)
+
+Anna: **Harrower et al. 2013** Cartography and Geographic Information Science [**Developing a Geographic Visualization Tool to Support Earth Science Learning**] (https://www.tandfonline.com/doi/abs/10.1559/152304000783547759)
