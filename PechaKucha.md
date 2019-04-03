@@ -14,4 +14,6 @@ Allie: **Abis and Brovkin 2019** Global Ecology and Biogeography [**Alternative 
 
 Angie: **Kawa et al. 2019** American Anthropologist [**The Social Network of US Academic Anthropology and its Inequalities**] (https://anthrosource.onlinelibrary.wiley.com/doi/pdf/10.1111/aman.13158) 
 
+Feiya: **Routson et al. 2019** Nature [**Mid-latitude net precipitation decreased with Arctic warming during the Holocene**] (https://www-nature-com.ezproxy.library.wisc.edu/articles/s41586-019-1060-3)
+
 ### Previous Readings
