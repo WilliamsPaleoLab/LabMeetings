@@ -26,18 +26,18 @@ This semester, lab meetings will be held Wednesdays at noon, usually in room 201
 
 **Apr 3** [Pecha Kucha](https://github.com/WilliamsPaleoLab/LabMeetings/blob/master/PechaKucha.md)
 
-**Apr 10** *TBD/Pecha Kucha*
+**Apr 10** [Pecha Kucha and cake!!!](https://github.com/WilliamsPaleoLab/LabMeetings/blob/master/PechaKucha.md)
 
-**Apr 17** *TBD/Pecha Kucha*
+**Apr 17** [No lab - Jack in D.C.]
 
-**Apr 24** *TBD/Pecha Kucha*
+**Apr 24** Kevin Chapter 2 update/Feiya research update
 
 **May 1** Sed Points of Light [470 Weeks]: Nick Sullivan: Optimized Constraint - "Biostrat on crack" - Using Orbital Forcing/Cyclostratigraphy for correlation
 
-**May 8**
+**May 8** Angie Brown trip practice talk
 
-**May 15**
+**May 15** Allie Thesis practice talk
 
 **May 22** [No lab - Jack in China]
 
-**May 29**
+**May 29** [No lab - Jack in China]
