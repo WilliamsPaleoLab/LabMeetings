@@ -8,6 +8,8 @@ Jack:  **Cavendar-Bares 2019** New Phytologist [**Diversification, adaptation, a
 
 Angie:  **Vachula et al. 2019** Quaternary Science Reviews [**Evidence of Ice Age humans in Beringia suggests early migration to North America**](https://www.sciencedirect.com/science/article/pii/S0277379118307716)
 
+Allie: **Hart et al. 2019** Global Change Biology [**Examining forest resilience to changing fire frequency in a fire‐prone region of boreal forest**] (https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.14550)
+
 ### Previous Readings
 David: **Rehfeld et al. 2018** Nature: [**Global patterns of declining temperature variability from the Last Glacial Maximum to the Holocene**](https://www.nature.com/articles/nature25454/)
 
@@ -22,5 +24,3 @@ Kevin:  **Brown et al. 2018** Scientific Data:  [**PaleoClim, high spatial resol
 Mathias: **Itter et al. 2018** Journal of Ecology: [**Boreal tree growth exhibits decadal‐scale ecological memory to drought and insect defoliation, but no negative response to their interaction**] (https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1365-2745.13087)
 
 Allie: **Abis and Brovkin 2019** Global Ecology and Biogeography [**Alternative tree‐cover states of the boreal ecosystem: A conceptual model**] (https://onlinelibrary.wiley.com/doi/10.1111/geb.12880)
-
-Anna: **Harrower et al. 2013** Cartography and Geographic Information Science [**Developing a Geographic Visualization Tool to Support Earth Science Learning**] (https://www.tandfonline.com/doi/abs/10.1559/152304000783547759)
