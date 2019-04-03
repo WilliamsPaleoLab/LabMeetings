@@ -6,6 +6,8 @@ Feiya: **Routson et al. 2019** Nature [**Mid-latitude net precipitation decrease
 
 Jack:  **Cavendar-Bares 2019** New Phytologist [**Diversification, adaptation, and community assembly of the American oaks (*Quercus*), a model clade for integrating ecology and evolution**](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.15450)
 
+Angie:  **Vachula et al. 2019** Quaternary Science Reviews [**Evidence of Ice Age humans in Beringia suggests early migration to North America**](https://www.sciencedirect.com/science/article/pii/S0277379118307716)
+
 ### Previous Readings
 David: **Rehfeld et al. 2018** Nature: [**Global patterns of declining temperature variability from the Last Glacial Maximum to the Holocene**](https://www.nature.com/articles/nature25454/)
 
