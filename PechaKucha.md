@@ -1,6 +1,13 @@
 ## Pecha Kucha Readings
 ### Queue
-Kevin:  **Knüsel et al. 2019** Nature Climate Change:  [**Applying big data beyond small problems in climate research**](https://www.nature.com/articles/s41558-019-0404-1)
+David: **Schegg et al. 2017** Journal of Climate [**Are Glacials Dry? Consequences for Paleoclimatology and for Greenhouse Warming**](https://journals.ametsoc.org/doi/10.1175/JCLI-D-16-0854.1)
+
+Anna: **Harrower et al. 2013** Cartography and Geographic Information Science [**Developing a Geographic Visualization Tool to Support Earth Science Learning**](https://www.tandfonline.com/doi/abs/10.1559/152304000783547759)
+
+Kevin:  **Willeit et al. 2019** Science Advances: [**Mid-Pleistocene transition in glacial cycles explained by declining CO2 and regolith removal**](http://advances.sciencemag.org/lookup/doi/10.1126/sciadv.aav7337)
+
+### Previous Readings
+Kevin:  **Knüsel et al. 2019** Nature Climate Change: [**Applying big data beyond small problems in climate research**](https://www.nature.com/articles/s41558-019-0404-1)
 
 Feiya: **Routson et al. 2019** Nature [**Mid-latitude net precipitation decreased with Arctic warming during the Holocene**](https://www-nature-com.ezproxy.library.wisc.edu/articles/s41586-019-1060-3)
 
@@ -8,16 +15,11 @@ Jack:  **Cavendar-Bares 2019** New Phytologist [**Diversification, adaptation, a
 
 Angie:  **Vachula et al. 2019** Quaternary Science Reviews [**Evidence of Ice Age humans in Beringia suggests early migration to North America**](https://www.sciencedirect.com/science/article/pii/S0277379118307716)
 
-Allie: **Hart et al. 2019** Global Change Biology [**Examining forest resilience to changing fire frequency in a fire‐prone region of boreal forest**] (https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.14550)
+Allie: **Hart et al. 2019** Global Change Biology:  [**Examining forest resilience to changing fire frequency in a fire‐prone region of boreal forest**](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.14550)
 
-David: **Schegg et al. 2017** Journal of Climate [**Are Glacials Dry? Consequences for Paleoclimatology and for Greenhouse Warming**](https://journals.ametsoc.org/doi/10.1175/JCLI-D-16-0854.1)
-
-Anna: **Harrower et al. 2013** Cartography and Geographic Information Science [**Developing a Geographic Visualization Tool to Support Earth Science Learning**] (https://www.tandfonline.com/doi/abs/10.1559/152304000783547759)
-
-### Previous Readings
 David: **Rehfeld et al. 2018** Nature: [**Global patterns of declining temperature variability from the Last Glacial Maximum to the Holocene**](https://www.nature.com/articles/nature25454/)
 
-Anna: **Koch et al. 2018** Quaternary Science Reviews: [**Earth system impacts of the European arrival and Great Dying in the Americas after 1492**] (https://www.sciencedirect.com/science/article/pii/S0277379118307261)
+Anna: **Koch et al. 2018** Quaternary Science Reviews: [**Earth system impacts of the European arrival and Great Dying in the Americas after 1492**](https://www.sciencedirect.com/science/article/pii/S0277379118307261)
 
 Jack:  **Prober et al. 2018** Ecological Monographs:  [**Shifting the conservation paradigm: a synthesis of options for renovating nature under climate change**](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecm.1333)
 
