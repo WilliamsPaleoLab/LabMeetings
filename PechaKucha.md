@@ -6,6 +6,8 @@ Anna: **Harrower et al. 2013** Cartography and Geographic Information Science [*
 
 Kevin:  **Willeit et al. 2019** Science Advances: [**Mid-Pleistocene transition in glacial cycles explained by declining CO2 and regolith removal**](http://advances.sciencemag.org/lookup/doi/10.1126/sciadv.aav7337)
 
+Angie:  **Smith et al. 2018** Science: [**Body size downgrading of mammals over the late Quaternary**](https://science.sciencemag.org/content/360/6386/310.abstract)
+
 ### Previous Readings
 Kevin:  **Knüsel et al. 2019** Nature Climate Change: [**Applying big data beyond small problems in climate research**](https://www.nature.com/articles/s41558-019-0404-1)
 
