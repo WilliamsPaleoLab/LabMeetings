@@ -2,7 +2,7 @@
 ### Queue
 David: **Schegg et al. 2017** Journal of Climate [**Are Glacials Dry? Consequences for Paleoclimatology and for Greenhouse Warming**](https://journals.ametsoc.org/doi/10.1175/JCLI-D-16-0854.1)
 
-Anna: **Harrower et al. 2013** Cartography and Geographic Information Science [**Developing a Geographic Visualization Tool to Support Earth Science Learning**](https://www.tandfonline.com/doi/abs/10.1559/152304000783547759)
+Anna: **Harrower et al. 2000** Cartography and Geographic Information Science [**Developing a Geographic Visualization Tool to Support Earth Science Learning**](https://www.tandfonline.com/doi/abs/10.1559/152304000783547759)
 
 Kevin:  **Willeit et al. 2019** Science Advances: [**Mid-Pleistocene transition in glacial cycles explained by declining CO2 and regolith removal**](http://advances.sciencemag.org/lookup/doi/10.1126/sciadv.aav7337)
 
