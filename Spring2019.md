@@ -30,7 +30,7 @@ This semester, lab meetings will be held Wednesdays at noon, usually in room 201
 
 **Apr 17** [No lab - Jack in D.C.]
 
-**Apr 24** Kevin Chapter 2 update/Feiya research update
+**Apr 24** CV development - professional development resources
 
 **May 1** Sed Points of Light [470 Weeks]: Nick Sullivan: Optimized Constraint - "Biostrat on crack" - Using Orbital Forcing/Cyclostratigraphy for correlation
 
