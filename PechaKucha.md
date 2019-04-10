@@ -10,6 +10,8 @@ Angie:  **Smith et al. 2018** Science: [**Body size downgrading of mammals over 
 
 Feiya: **Chen et al. 2019** Earth-Science Reviews [**Westerlies Asia and monsoonal Asia: Spatiotemporal differences in climate change and possible mechanisms on decadal to sub-orbital timescales**] (https://www.sciencedirect.com/science/article/pii/S001282521830117X)
 
+Allie: **Calder and Shuman 2019** Biology Letters [**Detecting past changes in vegetation resilience in the context of a changing climate**] (https://royalsocietypublishing.org/doi/full/10.1098/rsbl.2018.0768)
+
 
 ### Previous Readings
 Kevin:  **Knüsel et al. 2019** Nature Climate Change: [**Applying big data beyond small problems in climate research**](https://www.nature.com/articles/s41558-019-0404-1)
