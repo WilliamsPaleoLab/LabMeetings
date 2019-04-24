@@ -25,3 +25,10 @@ Broad resource which links to and describes a lot of free workshops available to
 
 Broad, but great database that the Graduate School provides encompassing all professional development resources offered to graduate students. This includes, but isn't limited to, in person, online, small group workshops, and a lot of online resources.
 
+## Diversity Statement Resources
+
+Fill in later
+
+## Lab CV's/Resumes
+
+Fill in later
