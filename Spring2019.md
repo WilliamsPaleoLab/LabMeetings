@@ -30,7 +30,7 @@ This semester, lab meetings will be held Wednesdays at noon, usually in room 201
 
 **Apr 17** [No lab - Jack in D.C.]
 
-**Apr 24** CV development - professional development resources(https://github.com/WilliamsPaleoLab/LabMeetings/blob/master/ResumeCVResources.md)
+**Apr 24** [CV development - professional development resources](https://github.com/WilliamsPaleoLab/LabMeetings/blob/master/ResumeCVResources.md)
 
 **May 1** Sed Points of Light [470 Weeks]: Nick Sullivan: Optimized Constraint - "Biostrat on crack" - Using Orbital Forcing/Cyclostratigraphy for correlation
 
