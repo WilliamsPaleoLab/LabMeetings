@@ -34,7 +34,7 @@ This semester, lab meetings will be held Wednesdays at noon, usually in room 201
 
 **May 1** Sed Points of Light [470 Weeks]: Nick Sullivan: Optimized Constraint - "Biostrat on crack" - Using Orbital Forcing/Cyclostratigraphy for correlation
 
-**May 8** Angie Brown trip practice talk
+**May 8** Angie Brown trip practice talk; Wolfgang Traylor visit
 
 **May 15** Allie Thesis practice talk
 
