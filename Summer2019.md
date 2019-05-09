@@ -2,8 +2,14 @@
 ### Summer 2019
 This summer, lab meetings will be held Wednesdays at 4pm, either in room 201 or on Terrace.
 
-_PechaKucha Readings_:  Please place links [here](https://github.com/WilliamsPaleoLab/LabMeetings/blob/master/PechaKucha.md). [GitHub Markdown]
-_Lab Presentations_: Please place presentations or PDFs [here](https://uwmadison.box.com/s/18q6ulb3qc5vtzx8cmwf9h8owc6cwu0y). [WiscBox]
+#### Lab Meeting resources
+
+Blackboard/Hangouts XXLINK
+
+[PechaKucha Readings](https://github.com/WilliamsPaleoLab/LabMeetings/blob/master/PechaKucha.md)  [GitHub Markdown]
+[Lab Presentations](https://uwmadison.box.com/s/18q6ulb3qc5vtzx8cmwf9h8owc6cwu0y) [WiscBox]
+
+#### Schedule
 
 **Jun 5**
 
