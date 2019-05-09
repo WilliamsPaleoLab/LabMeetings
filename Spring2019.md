@@ -2,6 +2,16 @@
 ### Spring 2019
 This semester, lab meetings will be held Wednesdays at noon, usually in room 201.
 
+#### MEETING RESOURCES & LINKS
+
+Blackboard/Hangouts XXLINK
+
+[PechaKucha Readings](https://github.com/WilliamsPaleoLab/LabMeetings/blob/master/PechaKucha.md)  [GitHub Markdown]
+
+[Lab Presentations](https://uwmadison.box.com/s/18q6ulb3qc5vtzx8cmwf9h8owc6cwu0y) [WiscBox]
+
+#### SCHEDULE
+
 **Jan 17** [Thurs] Suzette Flantua, tropical climates, present and past
 
 **Jan 23** [No lab - GJAM call]
