@@ -48,6 +48,6 @@ Blackboard/Hangouts XXLINK
 
 **May 15** Allie Thesis practice talk
 
-**May 22** [No lab - Jack in China]
+**May 22** Farewell for Tanjona! 4pm Terrace/Rathskellar
 
 **May 29** [No lab - Jack in China]
