@@ -34,8 +34,8 @@ Summer Ideas:  Have Andy & Kevin visit to talk about Data Science / AmFam.  Have
 
 **Aug 7**  INQUA debrief, catching up
 
-**Aug 14**
+**Aug 14** ESA debrief, Geoinformatics proposal discussion
 
-**Aug 21**
+**Aug 21** Claire & Jordan updates
 
-**Aug 28**
+**Aug 28** Andy Peters: Life as a Data Scientist
