@@ -36,6 +36,8 @@ Summer Ideas:  Have Andy & Kevin visit to talk about Data Science / AmFam.  Have
 
 **Aug 14** ESA debrief, Geoinformatics proposal discussion
 
-**Aug 21** Claire & Jordan updates
+**Aug 21** Claire & Jordan research updates
 
-**Aug 28** Andy Peters: Life as a Data Scientist
+**Aug 28** Carto updates and survey testing
+
+**Sept 4?** Andy Peters: Life as a Data Scientist

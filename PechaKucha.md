@@ -6,6 +6,8 @@ Angie:  **Smith et al. 2018** Science: [**Body size downgrading of mammals over 
 
 Jack:  **Bemmels et al. 2018** PNAS [**Genomic evidence of survival near ice sheet margins for some, but not all, North American trees**](https://www.pnas.org/content/116/17/8431.abstract)
 
+Jack:  **Gosling et al. 2019** PCubed [Reconstructing past fire temperatures from ancient charcoal material](https://www.sciencedirect.com/science/article/pii/S0031018218302311)
+
 ### Previous Readings
 David: **Schegg et al. 2017** Journal of Climate [**Are Glacials Dry? Consequences for Paleoclimatology and for Greenhouse Warming**](https://journals.ametsoc.org/doi/10.1175/JCLI-D-16-0854.1)
 
