@@ -8,6 +8,9 @@ Jack:  **Bemmels et al. 2018** PNAS [**Genomic evidence of survival near ice she
 
 Jack:  **Gosling et al. 2019** PCubed [Reconstructing past fire temperatures from ancient charcoal material](https://www.sciencedirect.com/science/article/pii/S0031018218302311)
 
+Jack:  **Salonen et al** Scientific Advances Machine-learning based reconstructions of primary and secondary climate variables from North American and European
+fossil pollen data (preprint)
+
 Jack:  **Theuerkauf et al. 2019** ROPES
 
 ### Previous Readings
