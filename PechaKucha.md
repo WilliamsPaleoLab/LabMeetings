@@ -1,4 +1,9 @@
 ## Pecha Kucha Readings
+
+### Oct. 11
+
+David: **Zeebee and Lourens 2019** Science: [**Solar System chaos and the Paleocene–Eocene boundary age constrained by geology and astronomy**](https://science.sciencemag.org/content/365/6456/926.full)
+
 ### Queue
 Kevin:  **Matthews et al. 2019** Global Ecology and Biogeography: [**Systematic variation in North American tree species abundance distributions along macroecological climatic gradients**](https://onlinelibrary.wiley.com/doi/abs/10.1111/geb.12879)
 
