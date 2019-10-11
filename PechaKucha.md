@@ -6,6 +6,8 @@ David: **Zeebee and Lourens 2019** Science: [**Solar System chaos and the Paleoc
 
 Claire: **Birkel et al. 2018** Climate and Atmospheric Science: [**Evidence for a volcanic underpinning of the Atlantic multidecadal oscillation**](https://www.nature.com/articles/s41612-018-0036-6.pdf)
 
+Anna: **Costa and Pires, 2009** International Journal of Climatology [**Effects of Amazon and Central Brazil deforestation scenarios on the duration of the dry season in the arc of deforestation**](https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/joc.2048)
+
 ### Queue
 Kevin:  **Matthews et al. 2019** Global Ecology and Biogeography: [**Systematic variation in North American tree species abundance distributions along macroecological climatic gradients**](https://onlinelibrary.wiley.com/doi/abs/10.1111/geb.12879)
 
