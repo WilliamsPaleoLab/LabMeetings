@@ -6,7 +6,7 @@ David: **Cameron et al. 2020** Matter : [**Systematically Improving Espresso: In
 
 Jack:  **Bemmels et al. 2019** PNAS [**Genomic evidence of survival near ice sheet margins for some, but not all, North American trees**](https://www.pnas.org/content/116/17/8431.abstract)
 
-Claire: **Clark et al. 2020** Nature: [**Oceanic forcing of penultimate deglacial and last interglacial sea-level rise**] (https://www.nature.com/articles/s41586-020-1931-7)
+Claire: **Clark et al. 2020** Nature: [**Oceanic forcing of penultimate deglacial and last interglacial sea-level rise**](https://www.nature.com/articles/s41586-020-1931-7)
 
 
 ### Oct. 11, 2019
