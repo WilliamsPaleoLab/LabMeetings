@@ -4,6 +4,8 @@
 
 David: **Cameron et al. 2020** Matter : [**Systematically Improving Espresso: Insights from Mathematical Modeling and Experiment**](https://uwmadison.box.com/s/flwh3r3pec8hzrheousze64j9cretmbl)
 
+Jack:  **Bemmels et al. 2018** PNAS [**Genomic evidence of survival near ice sheet margins for some, but not all, North American trees**](https://www.pnas.org/content/116/17/8431.abstract)
+
 ### Oct. 11, 2019
 
 David: **Zeebee and Lourens 2019** Science: [**Solar System chaos and the Paleocene–Eocene boundary age constrained by geology and astronomy**](https://science.sciencemag.org/content/365/6456/926.full)
@@ -12,16 +14,14 @@ Claire: **Birkel et al. 2018** Climate and Atmospheric Science: [**Evidence for 
 
 Anna: **Costa and Pires, 2009** International Journal of Climatology [**Effects of Amazon and Central Brazil deforestation scenarios on the duration of the dry season in the arc of deforestation**](https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/joc.2048)
 
+Jack: **Gosling et al. 2019** PCubed [Reconstructing past fire temperatures from ancient charcoal material](https://www.sciencedirect.com/science/article/pii/S0031018218302311)
+
 ### Queue
 Kevin:  **Matthews et al. 2019** Global Ecology and Biogeography: [**Systematic variation in North American tree species abundance distributions along macroecological climatic gradients**](https://onlinelibrary.wiley.com/doi/abs/10.1111/geb.12879)
 
 Kevin:  **Willeit et al. 2019** Science Advances: [**Mid-Pleistocene transition in glacial cycles explained by declining CO2 and regolith removal**](http://advances.sciencemag.org/lookup/doi/10.1126/sciadv.aav7337)
 
 Angie:  **Smith et al. 2018** Science: [**Body size downgrading of mammals over the late Quaternary**](https://science.sciencemag.org/content/360/6386/310.abstract)
-
-Jack:  **Bemmels et al. 2018** PNAS [**Genomic evidence of survival near ice sheet margins for some, but not all, North American trees**](https://www.pnas.org/content/116/17/8431.abstract)
-
-Jack:  **Gosling et al. 2019** PCubed [Reconstructing past fire temperatures from ancient charcoal material](https://www.sciencedirect.com/science/article/pii/S0031018218302311)
 
 Jack:  **Salonen et al** Scientific Advances Machine-learning based reconstructions of primary and secondary climate variables from North American and European
 fossil pollen data (preprint)
