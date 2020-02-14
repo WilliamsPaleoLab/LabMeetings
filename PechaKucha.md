@@ -4,7 +4,7 @@
 
 David: **Cameron et al. 2020** Matter : [**Systematically Improving Espresso: Insights from Mathematical Modeling and Experiment**](https://uwmadison.box.com/s/flwh3r3pec8hzrheousze64j9cretmbl)
 
-Jack:  **Bemmels et al. 2018** PNAS [**Genomic evidence of survival near ice sheet margins for some, but not all, North American trees**](https://www.pnas.org/content/116/17/8431.abstract)
+Jack:  **Bemmels et al. 2019** PNAS [**Genomic evidence of survival near ice sheet margins for some, but not all, North American trees**](https://www.pnas.org/content/116/17/8431.abstract)
 
 ### Oct. 11, 2019
 
