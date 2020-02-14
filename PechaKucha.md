@@ -8,6 +8,7 @@ Jack:  **Bemmels et al. 2019** PNAS [**Genomic evidence of survival near ice she
 
 Claire: **Clark et al. 2020** Nature: [**Oceanic forcing of penultimate deglacial and last interglacial sea-level rise**](https://www.nature.com/articles/s41586-020-1931-7)
 
+Anna: **Gibbons 1999** Nature: [**Science's new social contract with society**] (https://www.nature.com/articles/35011576.pdf)
 
 ### Oct. 11, 2019
 
