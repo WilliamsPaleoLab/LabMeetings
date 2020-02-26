@@ -36,7 +36,7 @@ or dial-in: 571-392-7650 PIN: 717 195 7358
 
 **Apr 3** Ellen Damschen Joint Lab?
 
-**Apr 10**
+**Apr 10** Paul Mathewson - Niche Mapper
 
 **Apr 17**
 
