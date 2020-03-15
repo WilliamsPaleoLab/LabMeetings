@@ -28,18 +28,26 @@ or dial-in: 571-392-7650 PIN: 717 195 7358
 
 **Mar 6** Kevin proposal defense!
 
-**Mar 13** Wikipedia Page for Neotoma, Lab Page Update
+**Mar 13** COVID planning
 
-**Mar 20** [Spring Break]
+**Mar 20** Wikipedia Page for Neotoma, Lab Page Update
 
-**Mar 27** Physical Geography Joint Lab
+**Mar 27** Wikipedia Page for Neotoma, Lab Page Update
 
-**Apr 3** Ellen Damschen Joint Lab?
+**Apr 3** Pecha Kucha
 
-**Apr 10**
+**Apr 10** Jordan research?
 
-**Apr 17**
+**Apr 17** Claire research?
 
 **Apr 24** Paul Mathewson - Niche Mapper
 
-**Apr 10**
+**May 1** Dave Chapter 2 0th-order findings
+
+**May 8**
+
+**May 15** [Jack may be in field]
+
+**May 22**
+
+**May 29**
