@@ -30,9 +30,9 @@ or dial-in: 571-392-7650 PIN: 717 195 7358
 
 **Mar 13** COVID planning
 
-**Mar 20** Wikipedia Page for Neotoma, Lab Page Update
+**Mar 20** Slack Setup, Lab WebPage Update, Wikipedia start
 
-**Mar 27** Wikipedia Page for Neotoma, Lab Page Update
+**Mar 27** Wikipedia Page for Neotoma
 
 **Apr 3** Pecha Kucha
 
