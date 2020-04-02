@@ -3,7 +3,7 @@
 ### April 3, 2020
 Jack: **Svenning 2018** Am J Bot: [**Proactive conservation and restoration of botanical diversity in the Anthropocene's “rambunctious garden”**](https://bsapubs.onlinelibrary.wiley.com/doi/pdf/10.1002/ajb2.1117)
 
-Claire: **Gabbon 2020** Science: [**Lead pollution tracks the rise and fall of medieval kings**](https://science.sciencemag.org/content/368/6486/19/tab-pdf)
+Claire: **Gabbon 2020** Science: [**Lead pollution tracks the rise and fall of medieval kings**](https://science.sciencemag.org/content/368/6486/19/tab-pdf) (This is super short)
 
 Claire: **Klages et al. 2020** Nature: [**Temperate rainforests near the South Pole
 during peak Cretaceous warmth**](https://www.nature.com/articles/s41586-020-2148-5.pdf)
