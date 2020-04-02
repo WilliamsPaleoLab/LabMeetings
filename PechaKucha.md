@@ -5,6 +5,9 @@ Jack: **Svenning 2018** Am J Bot: [**Proactive conservation and restoration of b
 
 Claire: **Gabbon 2020** Science: [**Lead pollution tracks the rise and fall of medieval kings**](https://science.sciencemag.org/content/368/6486/19/tab-pdf)
 
+Claire: **Klages et al. 2020** Nature: [**Temperate rainforests near the South Pole
+during peak Cretaceous warmth**](https://www.nature.com/articles/s41586-020-2148-5.pdf)
+
 ### Feb. 12, 2020
 
 David: **Cameron et al. 2020** Matter : [**Systematically Improving Espresso: Insights from Mathematical Modeling and Experiment**](https://uwmadison.box.com/s/flwh3r3pec8hzrheousze64j9cretmbl)
