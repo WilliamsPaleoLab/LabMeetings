@@ -8,6 +8,9 @@ Claire: **Gabbon 2020** Science: [**Lead pollution tracks the rise and fall of m
 Claire: **Klages et al. 2020** Nature: [**Temperate rainforests near the South Pole
 during peak Cretaceous warmth**](https://www.nature.com/articles/s41586-020-2148-5.pdf)
 
+David: **Zuckerberg et al. 2020** TREE: [**Climate Dipoles as Continental Drivers of Plant
+and Animal Populations**](https://www.sciencedirect.com/science/article/abs/pii/S0169534720300124)
+
 ### Feb. 12, 2020
 
 David: **Cameron et al. 2020** Matter : [**Systematically Improving Espresso: Insights from Mathematical Modeling and Experiment**](https://uwmadison.box.com/s/flwh3r3pec8hzrheousze64j9cretmbl)
