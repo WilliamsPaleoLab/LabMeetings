@@ -13,6 +13,8 @@ and Animal Populations**](https://www.sciencedirect.com/science/article/abs/pii/
 
 Syd **Robbins 2010** Geographical Review [**COMPARING INVASIVE NETWORKS: CULTURAL AND POLITICAL BIOGRAPHIES OF INVASIVE SPECIES**](https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1931-0846.2004.tb00164.x) This is semi relevant but I can't stop thinking about it!
 
+Anna: **Loarie et al. 2009** Nature Letters: [**The velocity of climate change**] (ftp://128.171.151.230/coastal/Climate%20Articles/Velocity%20climate%20change%20Loarie%202009.pdf)
+
 ### Feb. 12, 2020
 
 David: **Cameron et al. 2020** Matter : [**Systematically Improving Espresso: Insights from Mathematical Modeling and Experiment**](https://uwmadison.box.com/s/flwh3r3pec8hzrheousze64j9cretmbl)
