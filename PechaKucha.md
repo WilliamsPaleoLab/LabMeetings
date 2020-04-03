@@ -11,6 +11,8 @@ during peak Cretaceous warmth**](https://www.nature.com/articles/s41586-020-2148
 David: **Zuckerberg et al. 2020** TREE: [**Climate Dipoles as Continental Drivers of Plant
 and Animal Populations**](https://www.sciencedirect.com/science/article/abs/pii/S0169534720300124)
 
+Anna: **Loarie et al. 2009** Nature Letters: [**The velocity of climate change**] (ftp://128.171.151.230/coastal/Climate%20Articles/Velocity%20climate%20change%20Loarie%202009.pdf)
+
 ### Feb. 12, 2020
 
 David: **Cameron et al. 2020** Matter : [**Systematically Improving Espresso: Insights from Mathematical Modeling and Experiment**](https://uwmadison.box.com/s/flwh3r3pec8hzrheousze64j9cretmbl)
