@@ -11,7 +11,7 @@ during peak Cretaceous warmth**](https://www.nature.com/articles/s41586-020-2148
 David: **Zuckerberg et al. 2020** TREE: [**Climate Dipoles as Continental Drivers of Plant
 and Animal Populations**](https://www.sciencedirect.com/science/article/abs/pii/S0169534720300124)
 
-Anna: **Loarie et al. 2009** Nature Letters: [**The velocity of climate change**] (ftp://128.171.151.230/coastal/Climate%20Articles/Velocity%20climate%20change%20Loarie%202009.pdf)
+Syd **Robbins 2010** Geographical Review [**COMPARING INVASIVE NETWORKS: CULTURAL AND POLITICAL BIOGRAPHIES OF INVASIVE SPECIES**](https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1931-0846.2004.tb00164.x) This is semi relevant but I can't stop thinking about it!
 
 ### Feb. 12, 2020
 
