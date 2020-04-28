@@ -1,5 +1,19 @@
 ## Pecha Kucha Readings
 
+### Queue
+Kevin:  **Matthews et al. 2019** Global Ecology and Biogeography: [**Systematic variation in North American tree species abundance distributions along macroecological climatic gradients**](https://onlinelibrary.wiley.com/doi/abs/10.1111/geb.12879)
+
+Kevin:  **Willeit et al. 2019** Science Advances: [**Mid-Pleistocene transition in glacial cycles explained by declining CO2 and regolith removal**](http://advances.sciencemag.org/lookup/doi/10.1126/sciadv.aav7337)
+
+Angie:  **Smith et al. 2018** Science: [**Body size downgrading of mammals over the late Quaternary**](https://science.sciencemag.org/content/360/6386/310.abstract)
+
+Jack:  **Salonen et al** Scientific Advances Machine-learning based reconstructions of primary and secondary climate variables from North American and European
+fossil pollen data (preprint)
+
+Jack:  **Theuerkauf et al. 2019** ROPES
+
+Jack: **Trisos et al. 2020** [The projected timing of abrupt ecological disruption from climate change](https://www.nature.com/articles/s41586-020-2189-9.pdf)
+
 ### April 3, 2020
 Jack: **Svenning 2018** Am J Bot: [**Proactive conservation and restoration of botanical diversity in the Anthropocene's “rambunctious garden”**](https://bsapubs.onlinelibrary.wiley.com/doi/pdf/10.1002/ajb2.1117)
 
@@ -34,18 +48,6 @@ Claire: **Birkel et al. 2018** Climate and Atmospheric Science: [**Evidence for 
 Anna: **Costa and Pires, 2009** International Journal of Climatology [**Effects of Amazon and Central Brazil deforestation scenarios on the duration of the dry season in the arc of deforestation**](https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/joc.2048)
 
 Jack: **Gosling et al. 2019** PCubed [Reconstructing past fire temperatures from ancient charcoal material](https://www.sciencedirect.com/science/article/pii/S0031018218302311)
-
-### Queue
-Kevin:  **Matthews et al. 2019** Global Ecology and Biogeography: [**Systematic variation in North American tree species abundance distributions along macroecological climatic gradients**](https://onlinelibrary.wiley.com/doi/abs/10.1111/geb.12879)
-
-Kevin:  **Willeit et al. 2019** Science Advances: [**Mid-Pleistocene transition in glacial cycles explained by declining CO2 and regolith removal**](http://advances.sciencemag.org/lookup/doi/10.1126/sciadv.aav7337)
-
-Angie:  **Smith et al. 2018** Science: [**Body size downgrading of mammals over the late Quaternary**](https://science.sciencemag.org/content/360/6386/310.abstract)
-
-Jack:  **Salonen et al** Scientific Advances Machine-learning based reconstructions of primary and secondary climate variables from North American and European
-fossil pollen data (preprint)
-
-Jack:  **Theuerkauf et al. 2019** ROPES
 
 ### Previous Readings
 David: **Schegg et al. 2017** Journal of Climate [**Are Glacials Dry? Consequences for Paleoclimatology and for Greenhouse Warming**](https://journals.ametsoc.org/doi/10.1175/JCLI-D-16-0854.1)

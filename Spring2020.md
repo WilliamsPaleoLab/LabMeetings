@@ -36,17 +36,17 @@ or dial-in: 571-392-7650 PIN: 717 195 7358
 
 **Apr 3** Pecha Kucha
 
-**Apr 10** Jordan research?
+**Apr 10** Jack manuscript: Fast/Slow/Abrupt
 
-**Apr 17** Claire research?
+**Apr 17** Claire research presentation
 
 **Apr 24** Paul Mathewson - Niche Mapper
 
-**May 1** Dave Chapter 2 0th-order findings
+**May 1** [no lab meeting; end of semester crunch]
 
-**May 8**
+**May 8**  Pecha Kucha and graduation celebration
 
-**May 15** [Jack may be in field]
+**May 15** Dave Chapter 2 0th-order findings
 
 **May 22**
 
