@@ -3,6 +3,8 @@
 ### May 29, 2020
 Claire: **Marshall et al. 2020** Science: [**UV-B radiation was the Devonian-Carboniferous boundary terrestrial extinction kill mechanism**](https://advances.sciencemag.org/content/6/22/eaba0768)
 
+David: **Brendryen et al. 2020** Nature Geoscience: [**Eurasian Ice Sheet collapse was a major source of Meltwater Pulse 1A 14,600 years ago**](https://www.nature.com/articles/s41561-020-0567-4)
+
 ### Queue
 Kevin:  **Matthews et al. 2019** Global Ecology and Biogeography: [**Systematic variation in North American tree species abundance distributions along macroecological climatic gradients**](https://onlinelibrary.wiley.com/doi/abs/10.1111/geb.12879)
 
