@@ -1,5 +1,8 @@
 ## Pecha Kucha Readings
 
+### May 29, 2020
+Claire: **Marshall et al. 2020** Science: [**UV-B radiation was the Devonian-Carboniferous boundary terrestrial extinction kill mechanism**](https://advances.sciencemag.org/content/6/22/eaba0768)
+
 ### Queue
 Kevin:  **Matthews et al. 2019** Global Ecology and Biogeography: [**Systematic variation in North American tree species abundance distributions along macroecological climatic gradients**](https://onlinelibrary.wiley.com/doi/abs/10.1111/geb.12879)
 
