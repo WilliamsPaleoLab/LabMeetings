@@ -16,4 +16,4 @@ Jun 18 - **Russell et al. (2009)** Biological Reviews: [A warm thermal enclave i
 
 Jun 25 - **Daskalova et al. (2020)** Science: [Landscape-scale forest loss as a catalyst of population and biodiversity change](https://science.sciencemag.org/content/368/6497/1341/tab-pdf) 
 
-Jul 2 - **Tierney et al. (2019) ** https://eartharxiv.org/me5uj/
+Jul 2 - **Tierney et al. (2019)** https://eartharxiv.org/me5uj/
