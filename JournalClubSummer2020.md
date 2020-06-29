@@ -15,3 +15,5 @@ Jun 11 - **McGee et al. (2018)** Science Advances: [Western U.S. lake expansions
 Jun 18 - **Russell et al. (2009)** Biological Reviews: [A warm thermal enclave in the Late Pleistocene of the South‐eastern United States](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1469-185X.2008.00069.x?casa_token=XtsSaOC5PDUAAAAA%3Au2-U4S9azA9_GNwjJmvNpiPqMsalXzudNz7AJIRKqrc7I3CbJk9oS2qOpmIzpGB9a7hTXK7fTINjEFC9yw)
 
 Jun 25 - **Daskalova et al. (2020)** Science: [Landscape-scale forest loss as a catalyst of population and biodiversity change](https://science.sciencemag.org/content/368/6497/1341/tab-pdf) 
+
+Jul 2 - **Tierney et al. (2019) ** https://eartharxiv.org/me5uj/
