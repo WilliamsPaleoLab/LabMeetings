@@ -5,8 +5,10 @@ This semester, lab meetings will be held Fridays noon to 1:15pm, usually in room
 Ideas Wiki webpage for Neotoma
 
 #### MEETING RESOURCES & LINKS
-[Blackboard Videoconferencing](https://us.bbcollab.com/guest/b7a259e026b0499e88a92039d34f295f)
-or dial-in: 571-392-7650 PIN: 717 195 7358
+[Zoom](https://us04web.zoom.us/j/76116087716?pwd=TFcrSTF6cmE5Z25WeW9CUUQ0VmFoZz09)
+
+Meeting ID: 761 1608 7716
+Password: 2Vs9ML
 
 [PechaKucha Readings](https://github.com/WilliamsPaleoLab/LabMeetings/blob/master/PechaKucha.md)  [GitHub Markdown]
 
