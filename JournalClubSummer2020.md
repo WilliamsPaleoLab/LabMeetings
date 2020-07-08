@@ -16,4 +16,8 @@ Jun 18 - **Russell et al. (2009)** Biological Reviews: [A warm thermal enclave i
 
 Jun 25 - **Daskalova et al. (2020)** Science: [Landscape-scale forest loss as a catalyst of population and biodiversity change](https://science.sciencemag.org/content/368/6497/1341/tab-pdf) 
 
-Jul 2 - **Tierney et al. (2019)** https://eartharxiv.org/me5uj/
+Jul 2 - **Tierney et al. (2019)** Nature: [Glacial cooling and climate sensitivity revisited](https://eartharxiv.org/me5uj/)
+
+Jul 9 - No meeting, take the time to read next weeks paper since it's on the longer side
+
+Jul 16 - **Ruddimann et al. (2020)** Quaternary Science Reviews: [The early anthropogenic hypothesis: A review](https://www.sciencedirect.com/science/article/abs/pii/S0277379120303486)
