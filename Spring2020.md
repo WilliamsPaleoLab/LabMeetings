@@ -8,7 +8,6 @@ Ideas Wiki webpage for Neotoma
 [Zoom](https://us04web.zoom.us/j/76116087716?pwd=TFcrSTF6cmE5Z25WeW9CUUQ0VmFoZz09)
 
 Meeting ID: 761 1608 7716
-Password: 2Vs9ML
 
 [PechaKucha Readings](https://github.com/WilliamsPaleoLab/LabMeetings/blob/master/PechaKucha.md)  [GitHub Markdown]
 
