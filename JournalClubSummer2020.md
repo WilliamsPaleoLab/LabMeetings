@@ -9,6 +9,7 @@ We will be meeting weekly on **Thursdays 3pm to 3:45pm**. Anyone is welcome to j
 [Zoom](https://us04web.zoom.us/j/76669468848?pwd=ZVpNamJJamhSaGZNWFVHbFo3Sm5KQT09)
 
 Meeting ID: 766 6946 8848
+
 Passcode: See pinned message on Slack in the #general channel
 
 #### SCHEDULE
