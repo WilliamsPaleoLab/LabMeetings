@@ -6,7 +6,10 @@ All relevant information for the summer Journal Club can be found here!
 We will be meeting weekly on **Thursdays 3pm to 3:45pm**. Anyone is welcome to join whenever this fits your schedule and there's no need to let anyone know you're planning on attending, just feel free to drop in! At the end of every meeting the attendants will decide who picks the article for next week, and if you're selected please have the article up by **Tuesday 8pm** to give everyone a day to read it. 
 
 #### MEETING RESOURCES & LINKS
-[Blackboard](https://us.bbcollab.com/guest/489ffc3ec4d747238e6d3dc8a81eebf7) or dial in at +1-571-392-7650 PIN: 177 701 7050
+[Zoom](https://us04web.zoom.us/j/76669468848?pwd=ZVpNamJJamhSaGZNWFVHbFo3Sm5KQT09)
+
+Meeting ID: 766 6946 8848
+Passcode: See pinned message on Slack in the #general channel
 
 #### SCHEDULE
 
