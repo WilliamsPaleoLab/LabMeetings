@@ -25,3 +25,5 @@ Jul 2 - **Tierney et al. (2019)** Nature: [Glacial cooling and climate sensitivi
 Jul 9 - No meeting, take the time to read next weeks paper since it's on the longer side
 
 Jul 16 - **Ruddimann et al. (2020)** Quaternary Science Reviews: [The early anthropogenic hypothesis: A review](https://www.sciencedirect.com/science/article/abs/pii/S0277379120303486)
+
+August 6- **Sun et al. (2020):** [Volcanic origin for Younger Dryas geochemical anomalies ca. 12,900 cal B.P.](https://advances.sciencemag.org/content/6/31/eaax8587)
